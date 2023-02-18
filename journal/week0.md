@@ -3,4 +3,4 @@
 # Conceptual Design 
 
 # Logical Design Diagram
-![This is an image](Cruddur_Logical_Diagram.jpeg)
+![This is an image](Crudder_Logical_Diagram.jpeg)
