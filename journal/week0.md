@@ -22,3 +22,5 @@
 I think authentication service dont need to communicate with backend. It could either use internal users or external auth providers. In this case i did not inlcude external auth provider, but i can change this diagram later to include that
 ![image](https://user-images.githubusercontent.com/5489060/219874145-4b875a42-fa43-49f5-8c72-6d67ec47fd3b.png)
 
+https://lucid.app/lucidchart/aceb0af0-b5ff-4a10-a182-ff9c69ca8db0/edit?viewport_loc=-4%2C18%2C2040%2C896%2C0_0&invitationId=inv_1125757c-4fce-4aba-83e5-caa06969cd07
+
