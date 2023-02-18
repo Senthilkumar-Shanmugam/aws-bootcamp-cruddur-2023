@@ -9,7 +9,11 @@
 
 ![image](https://user-images.githubusercontent.com/5489060/219870559-c943eef3-0415-4ee5-8019-f55084fddac5.png)
 
+## setup second budget using AWS CLI in gitpod terminal
+![image](https://user-images.githubusercontent.com/5489060/219872038-7a50f2df-4ff0-4e28-8c10-4b47c64379f0.png)
 
+## create Billing alarm using CLI
+![image](https://user-images.githubusercontent.com/5489060/219872526-35940e1e-d919-4f02-9ddd-5eed259acb01.png)
 
 
 # Conceptual Design 
