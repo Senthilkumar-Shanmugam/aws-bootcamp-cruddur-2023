@@ -1,11 +1,16 @@
 # Week 0 — Billing and Architecture
 
 # Homework Challange
-1.Destroy your root account credentials, Set MFA, IAM role.. Already I have an Oganization set up with SSO with 3 member accounts. Root user is setup with MFA and created an admin user for all activties
-2. Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue.
-3. Review all the questions of each pillars in the Well Architected Tool (No specialized lens)
-4. Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
-5. Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility. 
+1.Destroy your root account credentials, Set MFA, IAM role..  I Already have an Oganization set up with SSO with 3 member accounts. Root user is setup with MFA and created an admin user for all activties
+
+# Setting up AWS CLI in gitpod workspace and setting Budget and Alarms using CLI
+
+## Budget setup using console UI
+
+![image](https://user-images.githubusercontent.com/5489060/219870559-c943eef3-0415-4ee5-8019-f55084fddac5.png)
+
+
+
 
 # Conceptual Design 
 
