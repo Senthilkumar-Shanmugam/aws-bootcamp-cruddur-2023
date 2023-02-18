@@ -17,6 +17,10 @@
 
 
 # Conceptual Design 
+https://lucid.app/lucidchart/bcada147-71ca-49f4-b486-7cacb97cca57/edit?viewport_loc=15%2C-49%2C1357%2C596%2C0_0&invitationId=inv_55866404-1a11-483a-9714-4bb6f34cf4ca
+
+![image](https://user-images.githubusercontent.com/5489060/219876016-cbf28ac6-4e62-4b82-9c83-295bca2e301b.png)
+
 
 # Logical Design Diagram
 I think authentication service dont need to communicate with backend. It could either use internal users or external auth providers. In this case i did not inlcude external auth provider, but i can change this diagram later to include that
