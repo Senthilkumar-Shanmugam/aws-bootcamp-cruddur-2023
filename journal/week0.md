@@ -20,4 +20,5 @@
 
 # Logical Design Diagram
 I think authentication service dont need to communicate with backend. It could either use internal users or external auth providers. In this case i did not inlcude external auth provider, but i can change this diagram later to include that
-![This is an image](Crudder_Logical_Diagram.jpeg)
+![image](https://user-images.githubusercontent.com/5489060/219874145-4b875a42-fa43-49f5-8c72-6d67ec47fd3b.png)
+
